@@ -1,0 +1,13 @@
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaDatos.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaDatos.pdb
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaComun.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\capaComun.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaDatos\bin\Debug\FontAwesome.Sharp.dll

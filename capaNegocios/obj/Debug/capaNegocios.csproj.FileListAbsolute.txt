@@ -1,0 +1,17 @@
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaNegocios.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaNegocios.pdb
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaDatos.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaDatos.pdb
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.csprojResolveAssemblyReference.cache
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.dll
+c:\users\bismarck\documents\visual studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaNegocios.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaNegocios.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaComun.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaDatos.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaComun.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\capaDatos.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\obj\Debug\capaNegocios.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaNegocios\bin\Debug\FontAwesome.Sharp.dll

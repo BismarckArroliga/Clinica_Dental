@@ -1,0 +1,6 @@
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\bin\Debug\capaComun.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\bin\Debug\capaComun.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\obj\Debug\capaComun.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\obj\Debug\capaComun.pdb
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Camy\Documents\Visual Studio 2015\Projects\ZafiroDental\capaComun\obj\Debug\capaComun.csprojResolveAssemblyReference.cache
